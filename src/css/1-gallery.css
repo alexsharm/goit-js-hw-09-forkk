@@ -9,6 +9,7 @@ ul {
 }
 
 .gallery {
+  margin-top: 40px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
